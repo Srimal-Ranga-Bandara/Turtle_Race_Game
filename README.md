@@ -1,2 +1,22 @@
-# Turtle_Race_Game
-This Python program creates a turtle race game using the turtle graphics module.  The screen is set to 800×600 pixels, and the user is asked to bet on a turtle’s color.  Six turtles (red, blue, green, yellow, purple, pink) are created and lined up at the left side of the screen.  Once the race starts, each turtle moves forward by a random distance between 1 and 6 steps in every loop.  The race continues until one turtle crosses the finish line (x > 375).  The program then checks if the user’s bet matches the winning turtle’s color and prints “You Win!” or “You Lose!” in the console.  Finally, the program waits for a mouse click to close the window.
+🐢 Turtle Race Game
+
+Get ready for some fun with this colorful Turtle Race Game built using Python’s turtle graphics! 🎉
+
+In this game:
+
+Six turtles (red, blue, green, yellow, purple, pink) line up at the starting line.
+
+You place your bet on which turtle you think will win.
+
+The race begins, and each turtle moves forward at random speeds.
+
+The first turtle to cross the finish line is declared the winner! 🏆
+
+You’ll find out if your guess was correct or not.
+
+This project is a beginner-friendly way to explore:
+✅ Python’s turtle module for graphics
+✅ Random number generation for unpredictability
+✅ Loops and conditions for game logic
+
+Perfect for learning Python basics while having fun watching turtles dash across the screen!
